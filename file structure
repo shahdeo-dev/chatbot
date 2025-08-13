@@ -1,0 +1,14 @@
+pdf-chatbot/
+├── backend/
+│   ├── src/main/java/com/example/pdfchatbot/
+│   │   ├── PdfChatbotApplication.java
+│   │   ├── controller/ChatController.java
+│   │   └── util/PdfUtils.java
+│   ├── src/main/resources/application.properties
+│   └── pom.xml
+└── frontend/
+    ├── src/
+    │   └── ChatUI.jsx
+    ├── public/index.html
+    ├── package.json
+    └── .env
